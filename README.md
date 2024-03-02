@@ -8,7 +8,7 @@
 
 This cookbook installs a Java JDK/JRE. It defaults to installing [OpenJDK](https://openjdk.java.net/), but it can also install [AdoptOpenJDK](https://adoptopenjdk.net/) and [Amazon Corretto](https://corretto.aws/).
 
-## Maintainerf
+## Maintainer
 
 This cookbook is maintained by the Sous Chefs. The Sous Chefs are a community of Chef cookbook maintainers working together to maintain important cookbooks. If you’d like to know more please visit [sous-chefs.org](https://sous-chefs.org/) or come chat with us on the Chef Community Slack in [#sous-chefs](https://chefcommunity.slack.com/messages/C2V7B88SF).
 
